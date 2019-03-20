@@ -1,0 +1,5 @@
+# Comments
+
+# Move this .htaccess file to the root web server folder. (htdocs with XAMPP on windows)
+
+ErrorDocument 404 /404/not-found.php
